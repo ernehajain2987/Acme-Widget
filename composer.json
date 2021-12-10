@@ -1,0 +1,10 @@
+{
+    "name": "acme-widget/shop",
+    "description": "Widget Store",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/"
+        }
+    }
+}
